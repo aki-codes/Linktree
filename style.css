@@ -1,0 +1,56 @@
+.nerko-one-regular {
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }  
+.rectangle {
+    border-radius:80px;
+    width: 350px;
+    height: 500px;
+    background-color: black;
+    outline: 2px solid white;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+h1 {
+    font-family: 'nerko one';
+    color: white;
+    text-shadow: 
+        -1px -1px 0 black,
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black;
+}
+h4 {
+    font-family: 'nerko one';
+    color: white;
+}
+body {
+    display: flex;
+    background-color: black;
+}
+.custom-button {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 10px 50px;
+    font-size: 16px;
+    font-family: 'nerko one';
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: lightgrey; 
+}
+.container {
+    text-align: center;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
